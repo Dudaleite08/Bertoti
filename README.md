@@ -7,7 +7,7 @@ Heurística 8: Design Estético e Minimalista
 As interfaces não devem conter informações irrelevantes ou raramente necessárias. Cada unidade extra de informação numa interface compete com as unidades de informação relevantes e diminui a sua visibilidade relativa.
 
 Site extremamente poluído visualmente
-
+!(https://github.com/Dudaleite08/Bertoti/blob/main/Img/S%C3%83O%20SEBASTI%C3%83O.png)
 
 - Aplicativo da Caixa Economica Federal
 
