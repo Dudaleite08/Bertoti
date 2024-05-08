@@ -10,6 +10,7 @@ Site extremamente poluído visualmente
 
 
 - Aplicativo da Caixa Economica Federal
+
 Heurística 9: Ajude os usuários a reconhecer, diagnosticar e se recuperar de erros
 As mensagens de erro devem ser expressas em linguagem simples (sem códigos de erro), indicar com precisão o problema e sugerir uma solução de forma construtiva. 
 Heurística 5: Prevenção de Erros
@@ -19,6 +20,7 @@ Aplicativo com erro, mas não diz qual erro que está dando, simplesmente 'a tra
 
 
 - https://www.itau.com.br/
+  
 Heurística 10: Ajuda e Documentação
 É melhor que o sistema não precise de nenhuma explicação adicional. No entanto, pode ser necessário fornecer documentação para ajudar os usuários a compreender como concluir suas tarefas.
 
@@ -26,6 +28,7 @@ Não tem nenhum contato com quem você fale com pessoas, sempre com robos, se se
 
 
 - https://www.hapvida.com.br/
+
 Heurística 7: Flexibilidade e Eficiência de Uso
 Atalhos – ocultos para usuários novatos – podem acelerar a interação do usuário experiente, para que o design possa atender tanto usuários inexperientes quanto experientes. Permita que os usuários personalizem ações frequentes.
 Heurística 9: Ajude os usuários a reconhecer, diagnosticar e se recuperar de erros
@@ -35,6 +38,7 @@ O site não da erro, o botão não funciona mas não retorna nenhum erro, e por 
 
 
 - Aplicativo hapvida
+
 Heurística 7: Flexibilidade e Eficiência de Uso
 Atalhos – ocultos para usuários novatos – podem acelerar a interação do usuário experiente, para que o design possa atender tanto usuários inexperientes quanto experientes. Permita que os usuários personalizem ações frequentes.
 
